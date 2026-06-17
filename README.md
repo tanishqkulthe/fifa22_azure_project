@@ -1,0 +1,1 @@
+# fifa22_azure_project
